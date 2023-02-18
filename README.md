@@ -1,18 +1,22 @@
 <h1 align="center">Hi There, I'm Xnuxer2 👋</h1>
 <h3 align="center">Hanya Seorang Kanger Dan Tidak Punya Basic Pemrograman</h3>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">    
     <img src="https://telegra.ph/file/2a20e854d62ec5f8cd58e.png">   
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left">
+<p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Xnuxer2/count.svg" />
 </p>
+
+<div align="center">
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="150"/> 
+<img src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952eac4ebc196868c0b56d5e8c18a1c29ed612ad806&rid=giphy.gif&ct=s.gif" width="250" height="150"/>
+<img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" width="250" height="150"/>
+</div> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -27,9 +31,9 @@
 ### <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xnuxer2&" alt="xnuxer2" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xnuxer2&theme=chartreuse-dark&hide_border=True&bg_color=000000" alt="xnuxer2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xnuxer2&show_icons=true&locale=en" alt="xnuxer2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xnuxer2&show_icons=true&theme=chartreuse-dark&hide_border=True&bg_color=000000" alt="xnuxer2" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -46,12 +50,12 @@ class AboutXnuxer2():
         ]
     def developer_tools(self):
         return [
-            'GitHub', 'Stack Overflow', 'Docker', 'Heroku', 'MySQL',
-            'MongoDB', 'Azure', 'Termux', 'Visual Code',
+            'GitHub', 'Docker', 'Heroku', 'MySQL',
+            'MongoDB', 'Azure', 'Termux', 'Visual Code'
         ]
-    def operating_system(self):
+    def windows_os(self):
         return [
-            'Windows', 'Android', 'MacOS'
+            'Windows 11', 'Windows 10'
         ]
     def operating_system(self):
         return [
@@ -62,7 +66,7 @@ class AboutXnuxer2():
 
 ## 🏆 GitHub Awards 🏆
 <p img align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaticusthiccy" alt="xnuxer2" /></a> </p>
-<img align="right"alt="coding"width="400"src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
