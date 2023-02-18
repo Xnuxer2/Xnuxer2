@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xnuxer2&theme=chartreuse-dark&hide_border=True&bg_color=000000" alt="xnuxer2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xnuxer2&show_icons=true&theme=chartreuse-dark&hide_border=True&bg_color=000000" alt="xnuxer2" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xnuxer2&show_icons=true&theme=chartreuse-dark&hide_border=True&bg_color=000000" alt="xnuxer2" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
