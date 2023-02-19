@@ -69,5 +69,5 @@ class AboutXnuxer2():
 
 ## 🏆 GitHub Activity 🏆
 ![Metrics](https://beta-metrics.lecoq.io/Xnuxer2?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta) 
-<a href="https://app.daily.dev/Xnuxer2"><img src="https://api.daily.dev/devcards/36e02162f15d427bb994a28dc0e2bb67.png?r=f2c" width="250" alt="Black's Dev Card"/></a>
 
+<a href="https://app.daily.dev/Xnuxer2"><img src="https://api.daily.dev/devcards/36e02162f15d427bb994a28dc0e2bb67.png?r=wrq" width="250" alt="Black's Dev Card"/></a>
