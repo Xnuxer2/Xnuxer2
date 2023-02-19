@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm Xnuxer2 👋</h1>
+<h1 align="center">Hi There, I'm Black 👋</h1>
 <h3 align="center">Hanya Seorang Kanger Dan Tidak Punya Basic Pemrograman</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -39,7 +39,7 @@
 ```python
 class AboutXnuxer2():
     def __init__(self):
-        self.name = ['Xnuxer2']
+        self.name = ['Black']
         self.country = ['Indonesia']
         self.language = ['Indonesia', 'English']
     def programming_languages(self):
