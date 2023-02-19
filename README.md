@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">    
-    <img src="https://telegra.ph/file/2a20e854d62ec5f8cd58e.png">   
+    <img src="https://te.legra.ph/file/fb2c263300ba7bf8c01ce.png" width="500">   
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
@@ -57,7 +57,7 @@ class AboutXnuxer2():
         ]
     def operating_system(self):
         return [
-            'Windows', 'Android', 'Linux'
+            'Windows', 'Android'
         ]
  ```       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -68,6 +68,5 @@ class AboutXnuxer2():
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 🏆 GitHub Activity 🏆
-![Metrics](https://beta-metrics.lecoq.io/Xnuxer2?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta) 
-
-<a href="https://app.daily.dev/Xnuxer2"><img src="https://api.daily.dev/devcards/36e02162f15d427bb994a28dc0e2bb67.png?r=wrq" width="250" alt="Black's Dev Card"/></a>
+![Metrics](https://metrics.lecoq.io/Xnuxer2?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta) 
+<a href="https://app.daily.dev/Xnuxer2"><img src="https://api.daily.dev/devcards/36e02162f15d427bb994a28dc0e2bb67.png?r=r4u" width="250" alt="Black's Dev Card"/></a>
