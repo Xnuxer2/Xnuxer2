@@ -69,4 +69,3 @@ class AboutXnuxer2():
 
 ## 🏆 GitHub Awards 🏆    
 ![Metrics](https://metrics.lecoq.io/Xnuxer2?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-<a href="https://app.daily.dev/Xnuxer2"><img src="https://api.daily.dev/devcards/36e02162f15d427bb994a28dc0e2bb67.png?r=i5u" width="250" alt="Black's Dev Card"/></a>
