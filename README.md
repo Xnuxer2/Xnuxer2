@@ -65,10 +65,10 @@ class AboutXnuxer2():
  ```       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-## 🏆 GitHub Awards 🏆
+## 🏆 ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅs 🏆
 <p img align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaticusthiccy" alt="xnuxer2" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-## 🏆 GitHub Awards 🏆    
+## 🏆 ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ 🏆    
 ![Metrics](https://metrics.lecoq.io/Xnuxer2?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
