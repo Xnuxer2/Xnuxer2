@@ -4,8 +4,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">    
-    <img src="https://te.legra.ph/file/fb2c263300ba7bf8c01ce.png" width="500">
- <a href="https://app.daily.dev/Xnuxer2"><img src="https://github.com/Xnuxer2/Xnuxer2/blob/main/devcard.svg" width="350" alt="Black's Dev Card"/></a>
+    <img src="https://te.legra.ph/file/fb2c263300ba7bf8c01ce.png" width="300">
+ <a href="https://app.daily.dev/Xnuxer2"><img src="https://github.com/Xnuxer2/Xnuxer2/blob/main/devcard.svg" width="250" alt="Black's Dev Card"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
