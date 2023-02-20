@@ -71,4 +71,4 @@ class AboutXnuxer2():
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ 🏆
-![Metrics](https://metrics.lecoq.io/Xnuxer2?template=classic&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&introduction=false&introduction.title=true&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/Xnuxer2?template=classic&introduction=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=following&people.shuffle=false&introduction=false&introduction.title=true&config.timezone=Asia%2FJakarta&config.octicon=true)
