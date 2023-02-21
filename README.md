@@ -8,7 +8,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/Xnuxer2/Xnuxer2/devcard/devcard.svg"
+      src="https://github.com/Xnuxer2/Xnuxer2/blob/main/devcard.svg"
     />
   </a>
   </div>
