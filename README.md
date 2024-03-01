@@ -1,7 +1,8 @@
 # Hi there👋 <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="200" height="41"> <img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">
 
 
-<div align="left">
+## 
+<div align="left"
   
   <a href="https://t.me/bangsatkuasa">
 <img src="https://img.shields.io/badge/Telegram-black?&logo=telegram"
@@ -23,16 +24,14 @@
     />
   </a>
   
-<a href="https://api.daily.dev/get?r=Xnuxer2" target="_blank">
-    <img
-      width="300"
-      align="right"
-      src="https://github.com/Xnuxer2/Xnuxer2/blob/main/devcard.svg"
+  <a href="https://api.daily.dev/get?r=xnuxer2" target="_blank">
+<img src="https://api.daily.dev/devcards/v2/VrT9h6qUikBA7bh4J07a6.png?type=default&r=e2h" width="300px"
+      height="50%" align="right" alt="Black's Dev Card"
     />
   </a>
   </div>
   
-## I am Black 
+### I am Black 
 <p align="left">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Xnuxer2/count.svg" />
