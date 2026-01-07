@@ -9,11 +9,11 @@
 </p>
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-## 
+### 
 <div align="left"
   
   <a href="https://api.daily.dev/get?r=xnuxer2" target="_blank">
@@ -22,23 +22,25 @@
     />
   </a>
 </div>
-  
-### I am Black 
-<p align="left">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="center" src="https://komarev.com/ghpvc/?username=Xnuxer2&color=green&style=plastic&label=PROFILE+VIEWS" />
-</p>
-  
-  - ɪ'ᴍ ᴊᴜꜱᴛ ɴᴇᴡʙɪᴇ ʙᴜᴛ ɪ ᴡɪʟʟ ᴋᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ
+
+##  <p align="left">ʜɪ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> ᴛʜᴇʀᴇ</p>
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/Black?theme=catppuccinMocha&font=Salsa&ext=activity" width="300"
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="center" src="https://komarev.com/ghpvc/?username=Xnuxer2&color=green&style=plastic&label=PROFILE+VIEWS" width="135"/>
+</p>
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Black?theme=catppuccinMocha&font=Salsa&ext=activity" width="350"
 </p>
     
    ![](https://github-trophies.vercel.app/?username=Xnuxer2&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
    
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 <img align="left" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
 
