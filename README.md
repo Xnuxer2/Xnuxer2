@@ -17,11 +17,11 @@
 <div align="left"
   
   <a href="https://api.daily.dev/get?r=xnuxer2" target="_blank">
-<img src="https://api.daily.dev/devcards/v2/VrT9h6qUikBA7bh4J07a6.png?type=default&r=e2h" width="300px"
-      height="50%" align="right" alt="Black's Dev Card"
+    <img src="https://api.daily.dev/devcards/v2/VrT9h6qUikBA7bh4J07a6.png?type=default&r=e2h" width="256"
+       align="right" alt="Black's Dev Card"
     />
   </a>
-  </div>
+</div>
   
 ### I am Black 
 <p align="left">
@@ -31,9 +31,14 @@
   
   - ɪ'ᴍ ᴊᴜꜱᴛ ɴᴇᴡʙɪᴇ ʙᴜᴛ ɪ ᴡɪʟʟ ᴋᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ
 
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Black?theme=catppuccinMocha&font=Salsa&ext=activity" width="300"
+</p>
+    
    ![](https://github-trophies.vercel.app/?username=Xnuxer2&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Black?theme=catppuccinMocha&font=Salsa&ext=activity)
+
 <img align="left" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
 
