@@ -38,6 +38,12 @@
    
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
+### ꜱᴜᴍᴍᴀʀʏ ᴏꜰ ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
+
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Xnuxer2&theme=purple-gradient)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
 <img src="https://raw.githubusercontent.com/Xnuxer2/Xnuxer2/output/snake.svg" alt="Snake animation" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
